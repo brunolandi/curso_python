@@ -1,3 +1,5 @@
+#AULA RESUMO, COMENTARIOS E PRINT, DOCSTRING != COMENTARIO
+
 """
 DocString
 triplo duplo aspas
